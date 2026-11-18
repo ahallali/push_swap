@@ -1,0 +1,7 @@
+# Build output
+*.o
+push_swap
+
+# OS and editor files
+.DS_Store
+.vscode/
